@@ -1,5 +1,8 @@
 # 💫 About Me:
 I am currently working at mern stack <br>i am a mern freelancer (web dev , app dev)<br>ask me about the web dev<br>web dev blog writter<br><br><br>
+to contact me by email and by my website <br>
+email:mukul6307@gmail.com <br>
+website:https://codewithmukul.netlify.app/
 
 
 # 💻 Tech Stack:
