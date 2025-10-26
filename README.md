@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am currently working at mern stack <br>i am a mern freelancer (web dev , app dev)<br>ask me about the web dev<br>web dev blog writter<br><br><br>
-to contact me by email and by my website <br>
+Hi! I’m Mukul Sharma – a passionate MERN Stack Developer.<br>
+I build web and mobile applications and love turning ideas into reality. 💻<br>
+🚀 Freelancer: Web & App Development<br>
+✍️ Web Development Blogger: Sharing tips, tutorials, and insights<br>
+💡 Ask me anything about web development, MERN stack, or tech in general<br>
+
 email:mukul6307@gmail.com <br>
 website:https://codewithmukul.netlify.app/
 
