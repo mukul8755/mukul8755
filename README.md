@@ -4,7 +4,7 @@
 I’m a passionate full-stack developer who loves building modern web apps, scalable APIs, and clean UI/UX experiences.  
 I focus on performance, problem-solving, and turning ideas into real products.
 
-🔗 **Portfolio:** https://codewithmukul.netlify.app/  
+🔗 **Portfolio:** https://codewithmukul.vercel.app/
 📩 **Email:** mukul6307@gmail.com  
 
 ---
